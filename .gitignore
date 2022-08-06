@@ -1,1 +1,8 @@
+.gitignore
 
+.idea/git_practice.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+README.md
