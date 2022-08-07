@@ -1,0 +1,51 @@
+/* html {
+    display: block;
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans';
+    background-color: #2b2b46;
+}
+.reset::after {
+    clear: both;
+}
+.reset::before,
+.reset::after {
+    display: block;
+    content: "";
+}
+h1, h2, h3, h4, p, a, div, ul, li {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    color: #dddddd;
+    margin: 20px auto;
+    font-size: 40px;
+    text-align: center;
+}
+div.image-holder {
+    clear: both;
+}
+div.image {
+    width: 45%;
+    margin: 2% 2.5% 0;
+    position: relative;
+    float: left;
+}
+img {
+    vertical-align: top;
+    width: 100%;
+    height: auto;
+} */
+
+img {
+    font-size: 10px;
+}
